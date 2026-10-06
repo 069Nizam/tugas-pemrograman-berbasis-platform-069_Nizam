@@ -162,11 +162,11 @@ https://httpbin.org/delete
 
 ### GET
 
-![Hasil pengujian GET](../../kegiatan-praktikum/screenshots/tm1-postman-get.png)
+![Hasil pengujian GET](https://github.com/069Nizam/tugas-pemrograman-berbasis-platform-069_Nizam/blob/main/pertemuan-02/tugas-mandiri/screenhoots/tm1-postman-get.png)
 
 ### POST
 
-![Hasil pengujian POST](../../kegiatan-praktikum/screenshots/tm1-postman-post.png)
+![Hasil pengujian POST](https://github.com/069Nizam/tugas-pemrograman-berbasis-platform-069_Nizam/blob/main/pertemuan-02/tugas-mandiri/screenhoots/tm1-postman-post.png)
 
 ## Kesimpulan
 
