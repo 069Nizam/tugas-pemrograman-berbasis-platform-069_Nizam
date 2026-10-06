@@ -61,15 +61,15 @@ Tidak. Tidak semua error HTTP berarti server mengalami kerusakan. Beberapa error
 
 ### Status 200
 
-![Status 200](../../kegiatan-praktikum/screenshots/tm2-status-200.png)
+![Status 200](https://github.com/069Nizam/tugas-pemrograman-berbasis-platform-069_Nizam/blob/main/pertemuan-02/tugas-mandiri/screenhoots/tm2-status-200.png)
 
 ### Status 404
 
-![Status 404](../../kegiatan-praktikum/screenshots/tm2-status-404.png)
+![Status 404](https://github.com/069Nizam/tugas-pemrograman-berbasis-platform-069_Nizam/blob/main/pertemuan-02/tugas-mandiri/screenhoots/tm2-status-404.png)
 
 ### Status 500
 
-![Status 500](../../kegiatan-praktikum/screenshots/tm2-status-500.png)
+![Status 500](https://github.com/069Nizam/tugas-pemrograman-berbasis-platform-069_Nizam/blob/main/pertemuan-02/tugas-mandiri/screenhoots/tm2-status-500.png)
 
 ## Kesimpulan
 
